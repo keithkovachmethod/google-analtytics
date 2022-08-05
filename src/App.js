@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import ReactGA from "react-ga4";
 
-ReactGA.initialize("3881638532");
+ReactGA.initialize("G-8CRH4X60FL");
 ReactGA.send("pageview");
 
 function App() {
